@@ -48,3 +48,6 @@ This project analyzes the growth and usage patterns of USDC (USD Coin) using on-
 
 ## Notes
 This project was completed as part of a data analytics assignment. All analysis, interpretations, and conclusions were developed independently.
+
+## Dashboard
+🔗 https://dune.com/pariswei/usdc-growth-analysis-dashboard
