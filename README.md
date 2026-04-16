@@ -34,7 +34,7 @@ This project analyzes the growth and usage patterns of USDC (USD Coin) using on-
 - **Support Dual User Segments:** Optimize infrastructure for both retail users (low fees) and institutional traders (high liquidity)
 
 ## Dashboard
-🔗 https://dune.com/pariswei/usdc-growth-analysis-dashboard
+[🔗 https://dune.com/pariswei/usdc-growth-analysis-dashboard](https://dune.com/pariswei/usdc-growth-analysis-dashboard?utm_source=share&utm_medium=copy&utm_campaign=dashboard)
 
 ## Project Structure
 - `/slides` – Final presentation deck (PDF)
@@ -49,5 +49,4 @@ This project analyzes the growth and usage patterns of USDC (USD Coin) using on-
 ## Notes
 This project was completed as part of a data analytics assignment. All analysis, interpretations, and conclusions were developed independently.
 
-## Dashboard
-🔗 https://dune.com/pariswei/usdc-growth-analysis-dashboard
+
